@@ -17,10 +17,6 @@
 - OO básica
 - BD básico
 
-## Visão geral sobre mapeamento objeto-relacional
-
-![myImage](https://github.com/isaccanedo/jpa/raw/master/img-problema-orm.png)
-
 ### Outros problemas que devem ser tratados:
 - Contexto de persistência (objetos que estão ou não atrelados a uma conexão em um dado momento)
 - Mapa de identidade (cache de objetos já carregados)
