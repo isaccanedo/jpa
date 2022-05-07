@@ -56,7 +56,7 @@ Escopo: tipicamente mantem-se uma instância única de EntityManagerFactory para
 
 ![myImage](https://github.com/isaccanedo/jpa/raw/master/img-pessoa.png)
 
-### Passos
+### Primeiro Passos
 
 #### Crie uma base de dados MySQL vazia
 - Instale o Xampp no seu computador
