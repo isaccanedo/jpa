@@ -1,4 +1,4 @@
-# Introdução JPA e Hibernate
+## Introdução JPA e Hibernate
 
 ## Sumário
 - [O que você vai aprender](#O-que-você-vai-aprender)
